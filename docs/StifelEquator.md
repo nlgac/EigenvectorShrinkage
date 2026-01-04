@@ -1,4 +1,4 @@
-This is a beautiful question! The concentration of measure on Stiefel manifolds has a natural geometric interpretation that generalizes the sphere case perfectly.
+The concentration of measure on Stiefel manifolds has a natural geometric interpretation that generalizes the sphere case perfectly.
 
 ## The Equator for $V_{n,2}$
 
