@@ -20,4 +20,4 @@ This website contains documents and code on Eigenvector Shrinkage and Portfolio 
 
 [Stiefel Equator](StiefelEquator.md)
 
-[Geodesics on Stiefel Manifolds.md](Geodesics on Stiefel Manifolds.md)
+[Geodesics on Stiefel Manifolds](Geodesics on Stiefel Manifolds.md)
