@@ -1,4 +1,20 @@
-The concentration of measure on Stiefel manifolds has a natural geometric interpretation that generalizes the sphere case perfectly.
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+
+The concentration of measure on Stiefel manifolds has a natural geometric interpretation that generalizes the sphere case.
 
 ## The Equator for $V_{n,2}$
 
@@ -84,4 +100,4 @@ In the Grassmannian picture (projecting to $k$-planes via $\pi: V_{n,k} \to G_{n
 
 Just as on the sphere, where most vectors are nearly perpendicular to any fixed vector in high dimensions, on $V_{n,2}$ most 2-frames have their entire 2-dimensional span nearly orthogonal to any fixed 2-frame's span. The "typical" configuration is maximal independence - frames living in complementary subspaces.
 
-This is the manifestation of the **curse of dimensionality** in a beautiful geometric form!
+This is the manifestation of the **curse of dimensionality** in geometric form.

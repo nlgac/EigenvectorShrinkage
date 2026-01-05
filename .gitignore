@@ -5,6 +5,7 @@ figures
 .vscode
 *.zip
 *.7z
+*.txt
 
 # all .DS_Store files
 **/.DS_Store
