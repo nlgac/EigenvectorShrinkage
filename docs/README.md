@@ -18,6 +18,6 @@ This website contains documents and code on Eigenvector Shrinkage and Portfolio 
 
 # Documents
 
-[Stifel Equator](StiefelEquator.md)
+[Stiefel Equator](StiefelEquator.md)
 
 [Geodesics on Stiefel Manifolds.md](Geodesics on Stiefel Manifolds.md)
