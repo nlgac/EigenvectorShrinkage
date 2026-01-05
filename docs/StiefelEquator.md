@@ -1,4 +1,3 @@
-
 <script>
   window.MathJax = {
     tex: {
@@ -8,6 +7,7 @@
     }
   };
 </script>
+
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
@@ -46,7 +46,7 @@ $$
 \mathcal{E}(X_0) \cong V_{n-2,2}
 $$
 
-The equator is itself a Stiefel manifold - the space of 2-frames living entirely in the orthogonal complement!
+The equator is itself a Stiefel manifold - the space of 2-frames living entirely in the orthogonal complement.
 
 ## Dimensional Analysis
 
